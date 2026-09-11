@@ -3,6 +3,8 @@
 소프트웨어 정의 위성 온보드 컴퓨터(SBC) 환경을 모사하여, **RMS(Rate Monotonic Scheduling) 실시간 스케줄러**와 **결정론적 FDIR(결함 탐지·격리·복구)** 메커니즘을 파이썬으로 구현한 로컬 시뮬레이터입니다.
 
 임베디드 소프트웨어에서 가장 중요한 **시간 엄수**와 **극한 환경에서의 생존성**을 별도의 하드웨어 부품 없이 소프트웨어 레벨에서 구현하고 검증하기 위해 제작했습니다.
+<img width="709" height="458" alt="image" src="https://github.com/user-attachments/assets/bd31009b-7298-43ab-85b1-d1127211d600" />
+
 
 ---
 
